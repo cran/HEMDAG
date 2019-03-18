@@ -1,6 +1,6 @@
 Package: HEMDAG
 Title: Hierarchical Ensemble Methods for Directed Acyclic Graphs
-Version: 2.3.6
+Version: 2.4.7
 Author: Marco Notaro [aut, cre] (<https://orcid.org/0000-0003-4309-2200>),
   Alessandro Petrini [ctb] (<https://orcid.org/0000-0002-0587-1484>),
   Giorgio Valentini [aut] (<https://orcid.org/0000-0002-5694-3919>)
@@ -22,5 +22,5 @@ Authors@R: c( person(given="Marco", family="Notaro", role=c("aut", "cre"), comme
               person(given="Alessandro", family="Petrini", role="ctb", comment=c(ORCID="0000-0002-0587-1484")),
               person(given="Giorgio", family="Valentini", role="aut", comment=c(ORCID="0000-0002-5694-3919")))
 RoxygenNote: 6.1.1
-Packaged: 2019-03-09 15:55:30 UTC; marco
-Date/Publication: 2019-03-09 23:13:04 UTC
+Packaged: 2019-03-18 13:47:37 UTC; marco
+Date/Publication: 2019-03-18 14:23:33 UTC
