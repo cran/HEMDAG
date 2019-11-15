@@ -1,6 +1,6 @@
-aa276a323c6743ac589782cab6962f78 *DESCRIPTION
+057b306d6f4a3aa163bbbae0b89501fb *DESCRIPTION
 8d8e85899077c4f96f425fffb7bb39b5 *NAMESPACE
-05326600dd2bc0e344f040dc8d1057ec *NEWS.md
+7c853dacac165d671668b0df8997d148 *NEWS.md
 399601f5c6b6c4a3ad92e9dcc374753c *R/GPAV.R
 59e4e1ce9d55be1a5eed18dd01d165f1 *R/HTD.R
 e095ee53e5c6680ec5728baabab665d5 *R/IO.fun.R
@@ -17,7 +17,7 @@ b38c67e9118b338a34a4f67284fed863 *data/scores.rda
 8a1a6c2671b3af583bf39bc32c10698d *data/test.index.rda
 a6784be6fba1850db1a693ecd6b44e17 *data/wadj.rda
 231deecd6cdc3aaf9c031bcf8e8ee443 *inst/CITATION
-a4e9e5c61977ed017def0521c597afc1 *inst/HEMDAG_2.5.9.pdf
+449939248fed6876310761581640024e *inst/HEMDAG_2.6.0.pdf
 c37989d9385b1fff8267bd23b6606437 *inst/extdata/edges.txt.gz
 f44bbfa43dd7fe005386a17edca4011c *inst/extdata/gene2pheno.txt.gz
 5d5105e3f14e98178c3586e12283d442 *inst/extdata/graph.edges.txt.gz
@@ -35,7 +35,7 @@ ba7fdf860cdd90abe50a30c3f80ee354 *man/Do.HTD.holdout.Rd
 5be5c0687480267256a3ae2ee7111e9f *man/GPAV.Rd
 18e425248185809415df81174ceed251 *man/GPAV.over.examples.Rd
 26360b6bc1034821eb37d318b47e5c35 *man/GPAV.parallel.Rd
-929b6462441f76a636bf0895e952567d *man/HEMDAG-package.Rd
+2051036b1527e42f722288e37ff27d1a *man/HEMDAG-package.Rd
 9854dc1373ace50ac6a26ae8e6605fbe *man/HTD-DAG.Rd
 5ba657da775481b5a3c1497296f18ae2 *man/Heuristic-Methods.Rd
 db867ad84ea7b0cfb172c31629fe04ba *man/Multilabel.F.measure.Rd
