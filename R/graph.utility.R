@@ -432,7 +432,7 @@ build.subgraph <- function(nd, g, edgemode="directed"){
     return(G);
 }
 
-#' @title dag checker
+#' @title DAG checker
 #' @description Check the integrity of a dag.
 #' @param g a graph of class \code{graphNEL}. It represents the hierarchy of the classes.
 #' @param root name of the class that is on the top-level of the hierarchy (\code{def. root="00"}).
@@ -472,14 +472,14 @@ check.dag.integrity <- function(g, root="00"){
 #' @return A list of 3 elements:
 #' \itemize{
 #'  \item status:
-#'     \itemize{
-#'      \item \code{OK} if none hierarchical constraints have bee broken;
-#'      \item \code{NOTOK} if there is at least one hierarchical constraints broken;
+#'   \itemize{
+#'    \item \code{OK} if none hierarchical constraints have bee broken;
+#'    \item \code{NOTOK} if there is at least one hierarchical constraints broken;
 #'   }
-#'     \item hierarchy_constraints_broken:
-#'     \itemize{
-#'      \item TRUE: example did not respect the hierarchical constraints;
-#'      \item FALSE: example broke the hierarchical constraints;
+#'  \item hierarchy_constraints_broken:
+#'   \itemize{
+#'    \item TRUE: example did not respect the hierarchical constraints;
+#'    \item FALSE: example broke the hierarchical constraints;
 #'   }
 #'  \item hierarchy_constraints_satisfied: how many terms satisfied the hierarchical constraint;
 #' }
